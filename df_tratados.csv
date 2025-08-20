@@ -944,7 +944,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 1360-XFJMR,No,Female,False,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),109.7,7344.45,3.6566666666666667
 1363-TXLSL,Yes,Male,True,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,70.3,2.3433333333333333
 1370-GGAWX,No,Female,False,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,94.15,4408.45,3.1383333333333336
-1371-DWPAZ,No,Female,False,Yes,Yes,0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),56.05,,1.8683333333333332
 1371-OJCEK,No,Female,False,No,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),24.35,1133.7,0.8116666666666668
 1371-WEPDS,No,Male,True,Yes,No,40,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Electronic check,55.8,2283.3,1.8599999999999999
 1373-ORVIZ,Yes,Female,False,Yes,Yes,11,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,66.35,740.8,2.2116666666666664
@@ -1730,7 +1729,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 2519-FAKOD,Yes,Male,False,No,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.25,3777.15,3.308333333333333
 2519-LBNQL,No,Male,True,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,104.35,6339.45,3.478333333333333
 2519-TWKFS,No,Male,False,Yes,Yes,25,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,55.1,1466.1,1.8366666666666667
-2520-SGTTA,No,Female,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.0,,0.6666666666666666
 2521-NPUZR,No,Male,False,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),101.0,7085.5,3.3666666666666667
 2522-AHJXR,No,Male,False,Yes,No,60,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109.45,6572.85,3.6483333333333334
 2522-WLNSF,No,Female,True,Yes,No,34,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),64.2,2106.3,2.14
@@ -1905,7 +1903,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 2773-MADBQ,No,Female,False,No,No,36,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,53.1,1901.25,1.77
 2773-OVBPK,No,Male,False,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111.3,7567.2,3.71
 2774-LVQUS,Yes,Female,True,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,83.05,1258.3,2.768333333333333
-2775-SEFEE,No,Male,False,No,Yes,0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),61.9,,2.0633333333333335
 2777-PHDEI,Yes,Female,False,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.05,78.05,2.6016666666666666
 2778-OCLGR,Yes,Male,True,Yes,No,24,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),39.1,971.3,1.3033333333333335
 2782-JEEBU,No,Male,False,No,No,21,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,36.0,780.15,1.2
@@ -2024,7 +2021,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 2919-HBCJO,Yes,Female,False,No,No,4,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),76.65,333.6,2.555
 2920-RNCEZ,No,Male,False,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.95,69.95,2.3316666666666666
 2921-XWDJH,No,Female,True,Yes,No,38,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83.45,3147.15,2.7816666666666667
-2923-ARZLG,No,Male,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.7,,0.6566666666666666
 2924-KHUVI,No,Male,False,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,100.55,5514.95,3.3516666666666666
 2925-MXLSX,No,Female,False,No,No,30,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),68.95,2038.7,2.2983333333333333
 2925-VDZHY,No,Male,False,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88.7,6501.35,2.9566666666666666
@@ -2175,7 +2171,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 3106-ULWFW,Yes,Female,False,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.2,627.4,2.8400000000000003
 3108-PCCGG,No,Male,True,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),84.45,5899.85,2.815
 3113-IWHLC,No,Male,False,No,No,5,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,55.8,274.35,1.8599999999999999
-3115-CZMZD,No,Male,False,No,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.25,,0.675
 3115-JPJDD,No,Female,False,Yes,No,59,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),81.25,4639.45,2.7083333333333335
 3118-UHVVQ,No,Female,False,Yes,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.8,1911.5,0.86
 3120-FAZKD,No,Male,False,Yes,Yes,54,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),24.05,1230.9,0.8016666666666666
@@ -2249,7 +2244,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 3211-AAPKX,No,Male,False,No,No,20,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,98.55,2031.95,3.2849999999999997
 3211-ILJTT,Yes,Male,False,Yes,No,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70.4,1214.05,2.3466666666666667
 3212-KXOCR,No,Male,False,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.0,1107.2,0.7
-3213-VVOLG,No,Male,False,Yes,Yes,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.35,,0.8450000000000001
 3214-IYUUQ,No,Female,False,Yes,No,61,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),93.7,5860.7,3.1233333333333335
 3217-FZDMN,Yes,Female,True,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.45,742.95,3.1483333333333334
 3219-JQRSL,No,Female,True,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.1,6352.4,2.9699999999999998
@@ -2854,7 +2848,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 4072-IPYLT,No,Female,False,Yes,Yes,36,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),51.05,1815.0,1.7016666666666667
 4074-SJFFA,Yes,Female,False,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,54.75,54.75,1.825
 4075-JFPGR,No,Female,False,Yes,No,51,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,93.5,4619.55,3.1166666666666667
-4075-WKNIU,No,Female,False,Yes,Yes,0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,73.35,,2.445
 4077-CROMM,Yes,Female,False,Yes,Yes,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.2,3243.45,3.4733333333333336
 4077-HWUYD,No,Male,False,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87.55,6463.15,2.9183333333333334
 4078-SAYYN,Yes,Female,False,No,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.75,1129.75,3.3583333333333334
@@ -3051,7 +3044,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 4365-MSDYN,No,Male,False,Yes,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.55,161.15,0.6516666666666667
 4366-CTOUZ,No,Female,False,No,No,50,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,100.2,5038.45,3.3400000000000003
 4367-NHWMM,No,Female,False,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.9,24.9,0.83
-4367-NUYAO,No,Male,False,Yes,Yes,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.75,,0.8583333333333333
 4369-HTUIF,Yes,Male,True,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),85.15,503.6,2.8383333333333334
 4369-NYSCF,No,Male,False,No,No,56,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),75.75,4284.65,2.525
 4373-MAVJG,Yes,Female,False,Yes,Yes,14,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90.9,1259.0,3.0300000000000002
@@ -3117,7 +3109,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 4468-KAZHE,No,Female,True,Yes,No,20,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,60.0,1259.35,2.0
 4468-YDOVK,No,Male,False,No,Yes,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),48.65,235.2,1.6216666666666666
 4471-KXAUH,Yes,Female,False,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,84.3,3588.4,2.81
-4472-LVYGI,No,Female,False,Yes,Yes,0,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),52.55,,1.7516666666666665
 4472-VESGY,No,Female,False,Yes,Yes,52,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),98.15,4993.4,3.271666666666667
 4475-NVTLU,No,Male,False,Yes,Yes,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,19.2,903.7,0.64
 4476-OSWTN,No,Male,True,Yes,No,69,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,110.55,7610.1,3.685
@@ -4053,7 +4044,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 5707-ORNDZ,Yes,Male,True,No,No,9,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,54.55,494.05,1.8183333333333331
 5707-ZMDJP,No,Male,False,Yes,Yes,53,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,69.7,3729.6,2.3233333333333333
 5708-EVONK,Yes,Female,False,Yes,Yes,58,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93.4,5435.6,3.1133333333333337
-5709-LVOEQ,No,Female,False,Yes,Yes,0,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,80.85,,2.695
 5712-AHQNN,No,Female,False,No,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91.65,3954.1,3.055
 5712-PTIWW,Yes,Male,False,No,No,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,79.85,152.45,2.6616666666666666
 5712-VBOXD,No,Female,False,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.15,68.45,0.6716666666666666
@@ -5432,7 +5422,6 @@ ClienteID,Evasion,Genero,AdultoMayor,Pareja,Dependientes,MesesContrato,ServicioT
 7641-EUYET,Yes,Male,True,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,100.7,4541.2,3.356666666666667
 7641-TQFHN,No,Male,False,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,100.55,3895.35,3.3516666666666666
 7643-RCHXS,No,Female,False,Yes,Yes,63,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,19.35,1263.85,0.645
-7644-OMVMY,No,Male,False,Yes,Yes,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.85,,0.6616666666666667
 7647-GYYKX,No,Female,False,Yes,Yes,54,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.35,1092.35,0.6783333333333333
 7649-PHJVR,No,Male,False,No,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.5,226.8,0.65
 7649-SIJJF,No,Male,False,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,80.1,5585.4,2.67
